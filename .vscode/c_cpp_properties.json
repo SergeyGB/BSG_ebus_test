@@ -1,0 +1,38 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/bilevskiy@odk.local/_git/BSG_ebus_test/include",
+                "/home/bilevskiy@odk.local/_git/BSG_ebus_test/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/bilevskiy@odk.local/_git/BSG_ebus_test/include",
+                    "/home/bilevskiy@odk.local/_git/BSG_ebus_test/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60110",
+                "NATIVE_LINUX=1",
+                "EBUSD_E=1",
+                "PACKAGE_VERSION_MAJOR=2",
+                "PACKAGE_VERSION_MINOR=1",
+                ""
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
